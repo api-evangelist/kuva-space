@@ -73,6 +73,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/kuva-space-domain-security.yml
   - type: Website
     url: https://kuvaspace.com
   - type: HomeEnglish
