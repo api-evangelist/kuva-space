@@ -38,9 +38,20 @@ description: >-
   kuva-reader, kuva-geometry) on GitHub and PyPI, which reads Kuva
   GeoTIFF-based L0/L1AB/L1C/L2A data products and their metadata sidecars.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kuva-space.png
 tags:
   - Earth Observation
   - Hyperspectral Imaging
