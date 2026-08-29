@@ -38,6 +38,17 @@ description: >-
   kuva-reader, kuva-geometry) on GitHub and PyPI, which reads Kuva
   GeoTIFF-based L0/L1AB/L1C/L2A data products and their metadata sidecars.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
